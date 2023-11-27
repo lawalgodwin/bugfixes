@@ -1,4 +1,4 @@
-# Project Name
+# Simple flask app
 
 This is a simple python flask App built to connect the MYSQL database. 
 
